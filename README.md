@@ -18,7 +18,7 @@ your code where possible, but please expect backwards-incompatible changes.
 ## Getting Started
 
 We have getting started documentation on our
-[docs.mbed.com](https://docs.mbed.com/docs/getting-started-mbed-os/en/latest/GettingStartedmbedOS/)
+[docs.mbed.com](https://docs.mbed.com/docs/getting-started-mbed-os/en/latest/)
 site.
 
 ## Code
